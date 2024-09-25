@@ -1,4 +1,13 @@
-
+@media(max-width:768px)
+body{
+    font-size:14px;
+     background: linear-gradient(135deg, #fffdd0, 	#ffff95);
+}
+@media((max-width:480px)
+body{
+    fonte-size:12px;
+     background: linear-gradient(135deg, #fffdd0, 	#ffff95);
+}
 body{
     font-family: sans-serif;
     color: #fffdd0;
