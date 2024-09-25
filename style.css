@@ -1,0 +1,24 @@
+
+body{
+    font-family: sans-serif;
+    color: #fffdd0;
+    background: linear-gradient(135deg, #fffdd0, 	#ffff95);
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+ 
+.foto {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 250px;
+        border-radius: 100%;
+        margin-bottom: 30px;
+    }
+.contato1 , .grupovip, .sac , .agendamento {
+    display: block;   
+    margin-left: auto;
+    margin-right:auto ;
+    width: 400px;
+    margin-bottom: 40px;
+}
+
